@@ -1,31 +1,5 @@
 /*
-Poe
-Bot image for ChatGPT-4o-Latest
-
-Omnicopter Model
-
-ChatGPT-4o-Latest
-New chat
-Bot image for ChatGPT-4o-Latest
-ChatGPT-4o-Latest
-By
-OpenAI
-@openai
-11K followers
-Chats
-OpenAI's most powerful model. Dynamic model continuously updated to the current version of GPT-4o in ChatGPT. Stronger than GPT-3.5 in quantitative questions (math and physics), creative writing, and many other challenging tasks. Powered by chatgpt-4o-latest. Supports context window of 128k tokens.
-View more
-368
-per standard message·
-View details
-
-    OFFICIAL
-
 Draw a model of an omnicopter in OpenScad
-Bot image for ChatGPT-4o-Latest
-
-ChatGPT-4o-Latest
-Poe
 
 Sure! Below is an OpenSCAD model of an omnicopter—a theoretical drone that can move in any direction without changing orientation. This model features a central body with multiple rotors mounted at different angles.
 Features of the Model:
@@ -102,5 +76,4 @@ How to Use:
 
 This model provides a simple representation of an omnicopter, but you can modify it further by adjusting angles, adding landing gear, or refining the rotor design. 🚁
 
-New chat - Poe
 */
